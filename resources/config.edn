@@ -1,0 +1,7 @@
+{:application/main {}
+
+;;  :service/student:delete {:delete #ig/ref :dao/student:delete}
+;;  :service/student:update {:update #ig/ref :dao/student:update}
+;;  :dao/student:delete {:db #ig/ref :database/connection}
+;;  :dao/student:update {:db #ig/ref :database/connection}
+ }
